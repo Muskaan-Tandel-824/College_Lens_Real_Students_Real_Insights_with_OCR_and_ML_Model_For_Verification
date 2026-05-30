@@ -1,5 +1,5 @@
 # College Lens - Real Students, Real Insights
-A Verified Student Review and Admission Prediction System using OCR and Machine Learning.
+##A Verified Student Review and Admission Prediction System using OCR and Machine Learning.
 
 **College Lens** is a comprehensive full-stack web application designed for college admissions counselling and reviews. It features automated OCR student verification and a live Machine Learning Predictor pipeline for predicting your admission chances based on JEE ranks (powered by a ~2.8 GB Random Forest model).
 
