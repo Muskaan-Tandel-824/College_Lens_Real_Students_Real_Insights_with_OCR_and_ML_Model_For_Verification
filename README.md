@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Prerequisites & Installation
+## 🛠️ Prerequisites & Installation :
 
 Before running the project from scratch, you must install the following core applications on your computer:
 
